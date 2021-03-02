@@ -18,37 +18,42 @@
 
 1. "How to learn", этап "HTML и CSS: основы"
 
-* Задача: разметка и стилизация статичной страницы (неадаптивная верстка)
-* [репозиторий проекта](https://github.com/EranosyanEduard/how-to-learn)
-* [проект](https://eranosyaneduard.github.io/how-to-learn/)
+    * Задача: разметка и стилизация статичной страницы (неадаптивная верстка)
+    * [репозиторий проекта](https://github.com/EranosyanEduard/how-to-learn)
+    * [проект](https://eranosyaneduard.github.io/how-to-learn/)
+
 
 2. "Russian travel", этап "HTML и CSS: адаптивная верстка"
 
-* Задача: разметка и стилизация статичной страницы (адаптивная верстка)
-* [репозиторий проета](https://github.com/EranosyanEduard/russian-travel)
-* [проект](https://eranosyaneduard.github.io/russian-travel/)
+    * Задача: разметка и стилизация статичной страницы (адаптивная верстка)
+    * [репозиторий проета](https://github.com/EranosyanEduard/russian-travel)
+    * [проект](https://eranosyaneduard.github.io/russian-travel/)
+
 
 3. "Mesto: Russia", этап "Ванильный JS"
 
-* Задача: разметка, стилизация и интерактивность страницы
-* [репозиторий проета](https://github.com/EranosyanEduard/mesto/tree/master/src)
-* [проект](https://eranosyaneduard.github.io/mesto/)
+    * Задача: разметка, стилизация и интерактивность страницы
+    * [репозиторий проета](https://github.com/EranosyanEduard/mesto/tree/master/src)
+    * [проект](https://eranosyaneduard.github.io/mesto/)
+
 
 4. "Mesto: Russia", этап "ReactJS"
 
-* Задача: "портирование" 3-его проекта на ReactJS
-* [репозиторий проекта](https://github.com/EranosyanEduard/react-mesto-auth)
-* [проект](https://eranosyaneduard.github.io/react-mesto-auth/)
+    * Задача: "портирование" 3-его проекта на ReactJS
+    * [репозиторий проекта](https://github.com/EranosyanEduard/react-mesto-auth)
+    * [проект](https://eranosyaneduard.github.io/react-mesto-auth/)
+
 
 5. "Mesto: Russia", этап "ExpressJS"
 
-* Задача: создание серверной части для 4-ого проекта
-* [репозиторий проекта](https://github.com/EranosyanEduard/react-mesto-api-full)
+    * Задача: создание серверной части для 4-ого проекта
+    * [репозиторий проекта](https://github.com/EranosyanEduard/react-mesto-api-full)
+
 
 6. "NewsExplorer", этап "Дипломный проект: ReactJS + ExpressJS"
 
-* Задача: написать проект, соответствующий ТЗ, т.е. создание backend и frontend
-  частей приложения.
-* [репозиторий backend-части проекта](https://github.com/EranosyanEduard/news-explorer-api)
-* [репозиторий frontend-части проекта](https://github.com/EranosyanEduard/news-explorer-frontend)
-* [проект](https://www.news-explorer.ml/)
+    * Задача: написать проект, соответствующий ТЗ, т.е. создание backend и
+      frontend частей приложения.
+    * [репозиторий backend-части проекта](https://github.com/EranosyanEduard/news-explorer-api)
+    * [репозиторий frontend-части проекта](https://github.com/EranosyanEduard/news-explorer-frontend)
+    * [проект](https://www.news-explorer.ml/)
